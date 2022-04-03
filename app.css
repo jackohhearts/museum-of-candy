@@ -1,5 +1,5 @@
 body {
-    background-color: #f5d9d5;
+    background-color: #a57a73;
     font-family: "Nunito", sans-serif;
 
 }
@@ -11,7 +11,7 @@ body {
 }
 
 .blurb p {
-    color: #F498b8;
+    color: #8b0b38;
     font-weight: 100;
     font-size: 1.25rem;
     line-height: 2;
@@ -28,7 +28,7 @@ body {
 }
 
 #mainNavbar .nav-link {
-    color: white;
+    color: black;
 }
 
 #mainNavbar .nav-link:hover {
@@ -57,6 +57,11 @@ body {
 h3 {
     border-top: solid black 1px;
     font-size: .8rem;
+}
+
+.img-fluid {
+    border: solid black 1px;
+    border-radius: 10%;
 }
 
 @media (max-width: 1200px) {
