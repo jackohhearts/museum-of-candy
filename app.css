@@ -54,6 +54,11 @@ body {
     transition: background 500ms;
 }
 
+h3 {
+    border-top: solid black 1px;
+    font-size: .8rem;
+}
+
 @media (max-width: 1200px) {
     #headingGroup h1 {
         font-weight: 100;
